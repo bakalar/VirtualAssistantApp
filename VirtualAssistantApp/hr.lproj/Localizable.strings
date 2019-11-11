@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  VirtualAssistantApp
+
+  Created by Šimun Mikecin on 28/10/2019.
+  Copyright © 2019 KANTA d.o.o. All rights reserved.
+*/
+"Initializing, please wait..." = "Molim Vas pričekajte...";
+"What can I help you with?" = "Kako Vam mogu pomoći?";
+"Go ahead, I’m listening…" = "Recite, slušam...";
+"USAGE" = "Neke stvari koje me možeš pitati:\n\n• Plaćanja\n\t\"Koliko imam novaca na računu?\"\n\n• Telefon\n\t\"Zovi kontakt centar.\"\n\n• Kalendar\n\t\"Dodaj sastanak u 9\"\n\t\"Novi sastanak, petak u 3\"\n";
+"Cancel" = "Odustani";
+"Current account balance in EUR" = "Stanje na tekućem računu u HRK";
+"Virtual Assistant" = "Virtualni asistent";
+"Banker's phone number" = "Telefonski broj osobnog bankara";
+"Call center phone number" = "Telefonski broj kontakt centra";
+"Parameters" = "Parametri";
+"On your account, you have %@ EUR" = "Na računu imate HRK %@";
+"This feature requires access rights for calendar events. Please grant access." = "Ova funkcionalnost zahtijeva pravo pristupa do događaja u kalendaru. Molim Vas dodajte pravo pristupa.";
+"Meeting" = "Sastanak";
+"Meeting with %@" = "Sastanak sa %@";
+"Appointment added." = "Sastanak dodan";
+"Processing..." = "Obrađujem...";
+"Could you please repeat." = "Molim Vas ponovite.";

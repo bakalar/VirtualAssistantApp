@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  VirtualAssistantApp
+
+  Created by Šimun Mikecin on 28/10/2019.
+  Copyright © 2019 KANTA d.o.o. All rights reserved.
+*/
+"USAGE" = "Some things you can ask me:\n\n• Payments\n\t\"How much money do I have on my current account?\"\n\n• Phone\n\t\"Call call center.\"\n\n• Calendar\n\t\"Set up a meeting at 9\"\n\t\"New appointment, Friday at 3\"\n";

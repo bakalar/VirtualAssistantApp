@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  VirtualAssistantApp
+
+  Created by Šimun Mikecin on 04/11/2019.
+  Copyright © 2019 KANTA d.o.o. All rights reserved.
+*/
+NSCalendarsUsageDescription = "Kalendari se koriste za dodavanje novih sastanaka.";
+NSMicrophoneUsageDescription = "Mikrofon je nužan za glasovne naredbe.";
+NSSpeechRecognitionUsageDescription = "Udaljeno prepoznavanje govora se koristi za točnije prepoznavanje.";
